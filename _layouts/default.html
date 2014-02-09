@@ -8,13 +8,20 @@
         <link rel="shortcut icon" href="http://www.gravatar.com/avatar/b6edd6d4a4d6c23f7377fdfeed73e348.png">
         {% include seo_header.html %}
         <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
-        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
-        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
-        <link rel="stylesheet" href="/css/site.css">
+        <link href='http://fonts.googleapis.com/css?family=Reenie+Beanie' rel='stylesheet' type='text/css'>
+
+        <link rel="stylesheet" href="/assets/css/common.css">
     </head>
     <body>
 
-        {{content}}
+        <div class="container">
+          <div class="left-col">
+            {% include nav.html %}
+          </div>
+          <div class="right-col main-content">
+            {{content}}
+          </div>
+        </div>
 
         <script type="text/javascript">
           var _gaq = _gaq || [];
