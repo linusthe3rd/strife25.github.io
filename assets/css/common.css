@@ -8,7 +8,6 @@
 html, body {
   font-family: Helvetica, Arial, Verdana, sans-serif;
   font-size: 14px;
-  height: 100%;
 }
 body {
   background: #FDFCFA;
@@ -42,7 +41,6 @@ a:hover, .link-effect:hover {
 ******************/
 
 .container {
-  height:100%;
   margin: auto;
   margin-top: 70px;
   min-width: 900px;
