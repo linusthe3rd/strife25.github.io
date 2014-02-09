@@ -118,6 +118,9 @@ a:hover, .link-effect:hover {
 .main-content h6 {
   font-size: 12px;
 }
+.main-content p {
+  margin-bottom: 10px;
+}
 
 .main-content h3 {
   margin-top: 20px;
