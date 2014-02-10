@@ -8,7 +8,7 @@ description: Hi! My name is John and these are the personal projects that I have
 
 The premier Referee Wallet for the iPhone. This was my first iOS app and can be considered as the culmination of everything I've learned about software and product design in the past few years. Work on this app began around June 2012 and it was finally released to the app store in 2014.
 
-### [Shakespeare's Playground](http://playground.johnryding.com/shakespeare)
+### [Shakespeare's Playground](http://johnryding.com/Shakespeare-Playground/)
 
 [Source Code](https://github.com/strife25/Shakespeare-Playground)
 
@@ -18,7 +18,7 @@ This project was my first real foray into playing with HTML5 and CSS technologie
 
 The UI of the project was influenced by the use of the [Essays-1743](http://www.dafont.com/essays1743.font) font in [Mark Pilgrim's](http://en.wikipedia.org/wiki/Mark_Pilgrim_(software_developer)) [Dive into HTML5](http://diveintohtml5.info/) web site. I also tried to mimic the ["coda slider"](http://www.panic.com/coda/) effect used on a number of different websites to try to give the page a "wow" factor when I presented the page to my class.
 
-### [Nocturnal Blacksburg](http://playground.johnryding.com/nocturnal-blacksburg)
+### [Nocturnal Blacksburg](http://johnryding.com/Nocturnal-Blacksburg/)
 
 [Source Code](https://github.com/strife25/Nocturnal-Blacksburg)
 
