@@ -6,7 +6,7 @@ description: Hi! My name is John and I'm a software engineer.
 
 ### About
 
-I am a software developer that currently works with Interactive Intelligence and lives in Quincy, MA.
+I am a software developer that currently works with Interactive Intelligence and lives in Chicago, IL.
 
 You can usually find me around the web under the handle of "strife25".
 
